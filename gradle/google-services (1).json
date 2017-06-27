@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "243363320326",
+    "firebase_url": "https://firebas-c7e19.firebaseio.com",
+    "project_id": "firebas-c7e19",
+    "storage_bucket": "firebas-c7e19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243363320326:android:f57433fa124b0e6b",
+        "android_client_info": {
+          "package_name": "com.karthik.firebas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243363320326-ool2i6nfubd07blreh1ifkd6sg1rue1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karthik.firebas",
+            "certificate_hash": "8f33be0345aaf2940912a2a82c5b3d455deb5ea6"
+          }
+        },
+        {
+          "client_id": "243363320326-cqgd1ftod2f1k45gmum3ni8msr1d97sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvB5azbTuPhO62xPzgpt9t2EAk2b8qgWY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243363320326-cqgd1ftod2f1k45gmum3ni8msr1d97sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
